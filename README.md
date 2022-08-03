@@ -1,4 +1,4 @@
-# Credit-Card-Loan-Application
+# Credit Card Loan Application
 Final project for ML for Business module
 
 Project description:  
