@@ -5,5 +5,5 @@ Project description:
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/46581154/182624412-c7cafa68-3569-45df-8184-d3e819fe420b.png">  
 
 - Main project file: `Project.ipynb`
-- Dataset available: `Credit Card Approval Prediction.zip`, downloaded from [Kaggle](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
+- Dataset: `Credit Card Approval Prediction.zip`, downloaded from [Kaggle](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
 - Final PDF report: outstanding
