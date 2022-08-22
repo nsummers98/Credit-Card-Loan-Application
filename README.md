@@ -6,4 +6,4 @@ Project description:
 
 - Main project file: `Project.ipynb`
 - Dataset: `Credit Card Approval Prediction.zip`, downloaded from [Kaggle](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
-- Final PDF report: outstanding
+- Final PDF report: `Group 7_ Machine Learning Final Report.pdf`
